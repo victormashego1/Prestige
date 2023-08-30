@@ -37,7 +37,7 @@ To use the Prestige project, follow these steps:
 
    ### Customer Form
 
-   ![alt text](images/gitImage2.png)
+   ![alt text](gitImage2.png)
    
 
 ## Author <a name="Author"></a>
