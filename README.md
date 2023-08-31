@@ -17,7 +17,7 @@ To get started with the Prestige project, follow these steps:
 1. Open the terminal.
 1. Type the following command:
 
-git clone https://github.com/victormashego1/Prestige.git
+`git clone https://github.com/victormashego1/Prestige.git`
 
 This will clone the project to your local machine.
 
